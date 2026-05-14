@@ -65,7 +65,7 @@ Send a WhatsApp message:
 
 - Node.js + Express
 - PostgreSQL
-- Claude AI (Anthropic)
+- Groq AI
 - WhatsApp Web.js
 
 ## License
